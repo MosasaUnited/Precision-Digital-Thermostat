@@ -1,4 +1,5 @@
 # Precision Digital Thermostat (3 Zones)
+#### Author: Bocaletto Luca
 
 **Files**  
 - `README.md`  
